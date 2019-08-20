@@ -5,7 +5,7 @@ from functions import *
 import gem
 import build
 
-dir = r'C:\Users\Ben\PycharmProjects\Gemtree'
+dir = r'C:\Path\to\Gemtree'
 
 os.chdir(dir)
 
